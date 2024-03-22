@@ -15,14 +15,14 @@ cd programacion_web
 Listar archivos del repositorio
 ```shell
 ls 
-``
+```
 
 Listar archivos del repositorio y archiovos ocultos
 ```shell
 ls -la
-``
+```
 
 abrir ms visual code
 ```shell
 code . 
-``
+```
